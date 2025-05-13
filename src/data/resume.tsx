@@ -74,10 +74,10 @@ export const DATA = {
     {
       company: "PT SSM Maju",
       href: "",
-      badges: [],
+      badges: ["Full-Time"],
       location: "Santa Clara, CA",
       title: "Multimedia and Digital Marketing | Working",
-      logoUrl: "/logo_1.png",
+      logoUrl: "/logo_1.jpg",
       start: "September 2024",
       end: "Present",
       description:

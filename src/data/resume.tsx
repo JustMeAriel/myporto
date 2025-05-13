@@ -74,10 +74,10 @@ export const DATA = {
     {
       company: "PT SSM Maju",
       href: "",
-      badges: ["Full-Time"],
+      badges: [],
       location: "Santa Clara, CA",
-      title: "Multimedia and Digital Marketing | Working",
-      logoUrl: "/logo_1.jpg",
+      title: "Multimedia and Digital Marketing | Full-Time",
+      logoUrl: "/ssm.jpg",
       start: "September 2024",
       end: "Present",
       description:
@@ -89,7 +89,7 @@ export const DATA = {
       href: "https://ajwaabaya.com",
       location: "Remote",
       title: "Visual Design Marketing | Freelance",
-      logoUrl: "/logo_3.png",
+      logoUrl: "/ajwa.png",
       start: "July 2024",
       end: "September 2024",
       description:
@@ -101,7 +101,7 @@ export const DATA = {
       badges: [],
       location: "Semarang, Indonesia",
       title: "Technical Support | Internship",
-      logoUrl: "/logo_2.png",
+      logoUrl: "/erp.png",
       start: "June 2024",
       end: "July 2024",
       description:

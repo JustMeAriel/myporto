@@ -72,12 +72,12 @@ export const DATA = {
 
   work: [
     {
-      company: "PT Sama Sama Mitra Maju",
+      company: "PT SSM Maju",
       href: "",
       badges: [],
       location: "Santa Clara, CA",
-      title: "Multimedia and Digital Marketing",
-      logoUrl: "/nvidia.png",
+      title: "Multimedia and Digital Marketing | Working",
+      logoUrl: "/logo_1.png",
       start: "September 2024",
       end: "Present",
       description:
@@ -88,20 +88,20 @@ export const DATA = {
       badges: [],
       href: "https://ajwaabaya.com",
       location: "Remote",
-      title: "Visual Design Marketing",
-      logoUrl: "/shopify.svg",
+      title: "Visual Design Marketing | Freelance",
+      logoUrl: "/logo_3.png",
       start: "July 2024",
       end: "September 2024",
       description:
         "Implemented a custom Kubernetes controller in Go to automate the deployment of MySQL and ProxySQL custom resources in order to enable 2,000+ internal developers to instantly deploy their app databases to production. Wrote several scripts in Go to automate MySQL database failovers while maintaining master-slave replication topologies and keeping Zookeeper nodes consistent with changes.",
     },
     {
-      company: "ERP Indonesia",
+      company: "PT ERP Indonesia",
       href: "https://erpindonesia.com",
       badges: [],
       location: "Semarang, Indonesia",
       title: "Technical Support | Internship",
-      logoUrl: "/atomic.png",
+      logoUrl: "/logo_2.png",
       start: "June 2024",
       end: "July 2024",
       description:

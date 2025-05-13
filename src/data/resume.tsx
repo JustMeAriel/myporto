@@ -3,7 +3,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
   name: "Ariel Eka Satriatama",
-  initials: "DV",
+  initials: "AE",
   url: "https://dillion.io",
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
@@ -11,7 +11,7 @@ export const DATA = {
     "Software Engineer, Visual Editing & Digital Marketing.",
   summary:
     "I am currently a student of Information Technology at Universitas PGRI Semarang (UPGRIS) with expertise in programming and software development.\n\n My experience includes building dynamic websites and developing scalable web applications. I am currently expanding my skill set by learning Python programming and exploring Data Science.",
-  avatarUrl: "/me.jpg",
+  avatarUrl: "/me.JPG",
   skills: [
     "React",
     "Next.js",

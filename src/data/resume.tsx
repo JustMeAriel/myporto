@@ -30,7 +30,7 @@ export const DATA = {
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "hello@example.com",
+    email: "arieleka058@gmail.com",
     tel: "+123456789",
     social: {
       GitHub: {
@@ -80,8 +80,12 @@ export const DATA = {
       logoUrl: "/ssm.jpg",
       start: "September 2024",
       end: "Present",
-      description:
-        "Architected and wrote the entire MVP of the GeForce Now Cloud Gaming internal admin and A/B testing dashboard using React, Redux, TypeScript, and Python.",
+      description:`
+        Responsible for planning and producing digital content (Reels, Feed, Stories) to boost brand awareness and engagement on social media, targeting Gen Z and car modification enthusiasts.
+        Managed paid ad campaigns through Facebook Ads Manager and designed visual assets for both digital and print promotions.
+        Achievements:
+        Increased Instagram reach and profile visits significantly based on insights over several months.
+        Enhanced brand visibility and customer interest through consistent and well-targeted content.`,
     },
     {
       company: "Ajwa Abaya",
@@ -92,8 +96,13 @@ export const DATA = {
       logoUrl: "/ajwa.png",
       start: "July 2024",
       end: "September 2024",
-      description:
-        "Implemented a custom Kubernetes controller in Go to automate the deployment of MySQL and ProxySQL custom resources in order to enable 2,000+ internal developers to instantly deploy their app databases to production. Wrote several scripts in Go to automate MySQL database failovers while maintaining master-slave replication topologies and keeping Zookeeper nodes consistent with changes.",
+      description:`
+        Responsible for creating daily visual content for social media platforms, especially Instagram and TikTok, aligned with the brand identity and current digital trends. Focused on crafting visually engaging designs to enhance content appeal and audience engagement.
+        Also developed skills in copywriting to strengthen marketing messages, and began learning the basics of Google Ads and Meta Ads as part of a broader digital marketing strategy.
+        Key Achievements & Skill Development:
+        Produced consistent daily design assets that maintained brand presence on social media.
+        Acquired foundational knowledge in effective copywriting and digital ad management across Meta and Google platforms.`,
+        
     },
     {
       company: "PT ERP Indonesia",

@@ -18,7 +18,7 @@ export default function Page() {
       <Particles
         className="absolute inset-0 -z-10"
         quantity={100} // Jumlah partikel
-        color="#0000" // Warna partikel
+        color="#currentColor" // Warna partikel
       />
       <section id="hero">
         <div className="mx-auto w-full max-w-2xl space-y-8">

@@ -17,8 +17,8 @@ export default function Page() {
     <main className="flex flex-col min-h-[100dvh] space-y-10">
       <Particles
         className="absolute inset-0 -z-10"
-        quantity={100} // Jumlah partikel
-        color="#currentColor" // Warna partikel
+        quantity={100}
+        color="var(--particle-color)"
       />
       <section id="hero">
         <div className="mx-auto w-full max-w-2xl space-y-8">
